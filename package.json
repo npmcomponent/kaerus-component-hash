@@ -1,0 +1,9 @@
+{
+  "name": "kaerus-component-hash",
+  "description": "Window location hash navigator",
+  "version": "0.3.1",
+  "dependencies": {
+    "kaerus-component-event": "git://github.com/npmcomponent/kaerus-component-event.git"
+  },
+  "license": "Apache2_0"
+}

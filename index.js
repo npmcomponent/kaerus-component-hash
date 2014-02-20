@@ -1,4 +1,4 @@
-var Event = require('event'),
+var Event = require('kaerus-component-event'),
     PREPEND = '', 
     SEPARATE = '/', 
     APPEND = '', 
